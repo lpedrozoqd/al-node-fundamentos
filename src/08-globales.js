@@ -29,6 +29,9 @@ setImmediate(()=>{
 globalThis.miVariable = 'elvalor';
 
 console.log(miVariable); 
+console.log(miVariable); 
+console.log(miVariable); 
+
 
 
 

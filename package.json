@@ -11,5 +11,6 @@
     "node"
   ],
   "author": "Leonel Pedrozo <leonel.pedrozo.quiroz@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
