@@ -12,5 +12,8 @@
   ],
   "author": "Leonel Pedrozo <leonel.pedrozo.quiroz@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
